@@ -13,7 +13,7 @@
   <img align="left" alt="CSS icon" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="left" alt="Linux icon" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="left" alt="MySql icon" width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="left" alt="Selenium icon" width="50px" height="50px" src="https://camo.githubusercontent.com/cc5c1df3c73a3d93bf8d25a7e2e7dccd2ed30063db7e67aa1c1e2ae9e3893ab9/68747470733a2f2f352e696d696d672e636f6d2f64617461352f50522f54432f4d592d34323737333639342f73656c656e69756d2d74657374696e672d747261696e696e672d353030783530302e706e67">
+  <img align="left" alt="Selenium icon" width="45px" height="45px" src="https://camo.githubusercontent.com/cc5c1df3c73a3d93bf8d25a7e2e7dccd2ed30063db7e67aa1c1e2ae9e3893ab9/68747470733a2f2f352e696d696d672e636f6d2f64617461352f50522f54432f4d592d34323737333639342f73656c656e69756d2d74657374696e672d747261696e696e672d353030783530302e706e67">
 </div>
 <br><br><br>
 <div>
