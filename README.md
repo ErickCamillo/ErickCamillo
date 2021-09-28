@@ -16,4 +16,4 @@
   <img align="left" alt="Selenium icon" width="40px" height="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-library.com%2Ficon%2Fselenium-icon-7.html&psig=AOvVaw0d1roT7oLrtX5DEclZJqwc&ust=1632884782795000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjuq__XoPMCFQAAAAAdAAAAABAK" />
 </div>
 <br><br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Erick Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCamillo&langs_count=10&layout=compact#&theme=dark" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Erick Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCamillo&langs_count=10&theme=dark&layout=compact#&" /></a>
