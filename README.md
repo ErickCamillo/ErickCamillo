@@ -15,4 +15,4 @@
   <img align="left" alt="MySql icon" width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 <br><br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Erick Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCamillo&langs_count=10&theme=dark&layout=compact#&" /></a>
+<a align="left" href="https://github.com/anuraghazra/github-readme-stats"><img alt="Erick Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCamillo&langs_count=10&theme=dark&layout=compact#&" /></a>
