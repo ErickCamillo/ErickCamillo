@@ -14,5 +14,7 @@
   <img align="left" alt="Linux icon" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="left" alt="MySql icon" width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-<br><br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="Erick Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCamillo&langs_count=10&theme=dark&layout=compact#&" /></a>
+<br><br><br>
+<div>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="Erick Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCamillo&langs_count=10&theme=dark&layout=compact#&" /></a>
+</div>
