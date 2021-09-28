@@ -13,7 +13,6 @@
   <img align="left" alt="CSS icon" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="left" alt="Linux icon" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="left" alt="MySql icon" width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="left" alt="Selenium icon" width="40px" height="40px" src="https://icon-library.com/icon/selenium-icon-19.html#" />
 </div>
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Erick Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCamillo&langs_count=10&theme=dark&layout=compact#&" /></a>
