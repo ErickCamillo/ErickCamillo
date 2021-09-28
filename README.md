@@ -5,4 +5,9 @@
 
 <div>
   <img align="left" alt="C language icon" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="left" alt="Python icon" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="left" alt="PHP icon" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="left" alt="HTML icon" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="left" alt="Linux icon" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="left" alt="MySql icon" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
