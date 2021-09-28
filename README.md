@@ -15,5 +15,5 @@
   <img align="left" alt="MySql icon" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="left" alt="Selenium icon" width="40px" height="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-library.com%2Ficon%2Fselenium-icon-7.html&psig=AOvVaw0d1roT7oLrtX5DEclZJqwc&ust=1632884782795000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjuq__XoPMCFQAAAAAdAAAAABAK" />
 </div>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Erick Github Stats" src="https://github-readme-stats.vercel.app/api?username=ErickCamillo&show_icons=true&count_private=true&hide=" /></a>
+<br><br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Erick Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCamillo&langs_count=10&layout=compact#" /></a>
