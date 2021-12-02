@@ -1,9 +1,10 @@
 ### Olá Mundo 🤖💻
  ---
  
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img  alt="Erick Github Stats" src="https://github-readme-stats.vercel.app/api?username=ErickCamillo&  show_icons=true&count_private=true&hide=&theme=dark" /></a>
-   <img  alt="Erick Github Stats" src="https://github-readme-stats.vercel.app/api?username=ErickCamillo&  show_icons=true&count_private=true&hide=&theme=dark" />
-   
+ <p align="center">
+  <img  alt="Erick Github Stats" src="https://github-readme-stats.vercel.app/api?username=ErickCamillo&  show_icons=true&count_private=true&hide=&theme=dark" />
+  <img align="left" alt="Erick Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCamillo&langs_count=10&theme=dark&layout=compact#&" />
+<p>  
    
    
 <br><br><br><br><br><br></br>
