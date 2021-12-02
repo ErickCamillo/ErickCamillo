@@ -1,10 +1,10 @@
 ### Olá Mundo 🤖💻
  ---
  
- <p align="left">
+ <div align="left">
   <img alt="Erick Github Stats" src="https://github-readme-stats.vercel.app/api?username=ErickCamillo&  show_icons=true&count_private=true&hide=&theme=dark" />
   <img alt="Erick Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCamillo&langs_count=10&theme=dark&layout=compact#&" />
-<p>  
+</div>  
    
    
 <br><br><br><br><br><br></br>
