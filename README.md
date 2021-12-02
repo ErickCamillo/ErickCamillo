@@ -7,7 +7,7 @@
 </div>
 
 <br><br><br></br>
----
+ ---
 <br><br><br></br>
 
 ### Linguagens, Frameworks e Ferramentas:
