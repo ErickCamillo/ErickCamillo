@@ -6,7 +6,7 @@
    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="Erick Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCamillo&langs_count=10&theme=dark&layout=compact#&" /></a>
 </div>
 
-<br><br><br><br><br><br><br><br><br><</br>
+<br><br><br><br><br><br><br><br><br></br>
 
 ### Linguagens, Frameworks e Ferramentas:
 <div> 
