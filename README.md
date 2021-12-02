@@ -2,6 +2,9 @@
  ---
  
    <a href="https://github.com/anuraghazra/github-readme-stats"><img  alt="Erick Github Stats" src="https://github-readme-stats.vercel.app/api?username=ErickCamillo&  show_icons=true&count_private=true&hide=&theme=dark" /></a>
+   <img  alt="Erick Github Stats" src="https://github-readme-stats.vercel.app/api?username=ErickCamillo&  show_icons=true&count_private=true&hide=&theme=dark" />
+   
+   
    
 <br><br><br><br><br><br></br>
  --- 
