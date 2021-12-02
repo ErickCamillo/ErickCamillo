@@ -6,7 +6,7 @@
   <img alt="Erick Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCamillo&langs_count=10&theme=dark&layout=compact#&" />
 </div>
 </br>
- --- 
+ ---</br>
 ### Linguagens, Frameworks e Ferramentas:
 <div> 
   <img align="left" alt="C language icon" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
