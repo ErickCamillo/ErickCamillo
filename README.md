@@ -3,7 +3,7 @@
  
  <div align="left">
   <img width=50% alt="Erick Github Stats" src="https://github-readme-stats.vercel.app/api?username=ErickCamillo&show_icons=true&count_private=true&hide=&theme=dark" />
-  <img alt="Erick Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCamillo&langs_count=10&theme=dark&layout=compact#&" />
+  <img heigth=30% alt="Erick Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCamillo&langs_count=10&theme=dark&layout=compact#&" />
 </div>
 
 </br>
